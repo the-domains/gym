@@ -1,0 +1,14 @@
+layout_spectrum: 0.5848529
+typography_spectrum: 0.2457432
+color:
+  saturation: 0.1903983
+  lightness: 0.2893403
+  brandStrength: 0.8198908
+  rhythmicContrast: 0.1602187
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Gym
